@@ -11,7 +11,7 @@ body{
 }
 .loader span{
 	font-family: arial;
-	font-size: 24px;
+	font-size: 44px;
 	color: rgba(255,255,255,.1);
 	display: inline-block;
 	transition: all .5s;
